@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am currently a 2nd year student at IIT JAMMU (gonna be this JULY)<br>
+I am currently a 2nd year student at IIT JAMMU<br>
 - 😄 Pronouns: glass handle
 
 # 💻 Tech Stack:
